@@ -1,0 +1,14 @@
+.col1{
+font-size: 16px;
+    padding: 14px 16px;
+    width: 366px;
+    margin-bottom: 7px;
+}
+.input-border{
+    border-radius: 6px;
+    border: 1px solid #bdbdbf;
+}
+.input-border:focus-visible{
+    outline: 1px solid rgb(129, 129, 204);
+    border-radius: 3px;
+}
